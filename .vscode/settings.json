@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.project.outputPath": "bin",
+    "files.watcherExclude": {
+        "**/target": true
+    }
+}
